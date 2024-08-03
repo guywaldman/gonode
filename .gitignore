@@ -1,0 +1,9 @@
+# Test binary, built with `go test -c`
+*.test
+
+*.out
+
+.env
+*.env
+
+build
