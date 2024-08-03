@@ -1,0 +1,7 @@
+# Go
+build/
+
+# Node.js
+node_modules/
+# For examples, ignore lockfiles.
+pnpm-lock.yaml
